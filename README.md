@@ -22,7 +22,7 @@ This template was developed using Bootstrap5, Sass, Fontawesome, JavaScript, HTM
 <h2>Links</h2>
 
 <ul>
-  <li>Demo: <a href="https://unicorn-agency.netlify.app/" target="_blank">https://unicorn-agency.netlify.app/</a></li>
+  <li>Demo: <a href="" target="_blank"></a></li>
 </ul>
 
 <h2>Tech Stack</h2>
