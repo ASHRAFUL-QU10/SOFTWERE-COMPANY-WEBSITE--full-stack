@@ -68,3 +68,4 @@ This template was developed using Bootstrap5, Sass, Fontawesome, JavaScript, HTM
 </ul>
 
 <h2>Author's Links</h2>
+https://www.triaooz.com/QU10-PROTFOLIO/qu10.html
